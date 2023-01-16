@@ -33,5 +33,5 @@
 - File 4 : Ungraded Lab_ Building Models for the IMDB Reviews Dataset
 - File 5 : Ungraded Lab_ Training a Sarcasm Detection Model using Bidirectional LSTMs
 - File 6 : Ungraded Lab_ Training a Sarcasm Detection Model using a Convolution Layer
-- File 7 : Week 3_ Exploring Overfitting in NLP
+- File 7 : Exploring Overfitting in NLP
 <br></br>
