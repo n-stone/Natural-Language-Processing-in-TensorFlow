@@ -35,3 +35,13 @@
 - File 6 : Ungraded Lab_ Training a Sarcasm Detection Model using a Convolution Layer
 - File 7 : Exploring Overfitting in NLP
 <br></br>
+
+## 4. Fourth-Week
+- Environment
+    - Using the Google colab 
+    - options : Runtime(GPU/Standard)
+<br></br>
+- File 1 : Ungraded Lab: Generating Text with Neural Networks
+- File 2 : Ungraded Lab: Generating Text from Irish Lyrics
+- File 3 : Predicting the next word
+<br></br>
